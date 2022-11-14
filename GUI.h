@@ -1,7 +1,7 @@
 #ifndef GUI_GUARD
 #define GUI_GUARD
 
-#include "Window.h"
+#include "WIndow.h"
 #include "Graph.h"
 
 namespace Graph_lib {
